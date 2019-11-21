@@ -1,1 +1,1 @@
-# MazePuzzleMania.github.io
+# BasketballScoreCounter.github.io
